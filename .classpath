@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Documents/Data/Codes/Programeren/Java/Projecten/SiteDownloader/commons-validator-1.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
